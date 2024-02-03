@@ -1,16 +1,7 @@
 # todo_hive_app
 
-A new Flutter project.
+This is a practice project for learning Hive.
+I used hive and getIt in this project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1706991873](https://github.com/yasinatagun/Todo-Hive-App/assets/4943407/2399a93d-bfc9-4c9f-94fe-e6dc93f3cedd)
+![Screenshot_1706991899](https://github.com/yasinatagun/Todo-Hive-App/assets/4943407/1371e86f-07ef-447c-957e-dd234cc6ef69)
